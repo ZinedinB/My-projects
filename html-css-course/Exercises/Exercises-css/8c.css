@@ -1,0 +1,20 @@
+.search-bar{
+  width: 400px;
+  font-size: 17px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.30);
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.google{
+  width: 250px;
+  display: block;
+  margin-left: 90px;
+}
+

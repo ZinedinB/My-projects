@@ -1,0 +1,46 @@
+.shirt{
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.shirt-div{
+  position: relative;
+  display: inline-block;
+}
+
+.off{
+  position: absolute;
+  background-color: black;
+  color: whitesmoke;
+  top: 10px;
+  right: 0;
+  font-family: Arial;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.overlay{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 110px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.cart-button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

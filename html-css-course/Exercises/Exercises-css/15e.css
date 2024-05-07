@@ -1,0 +1,25 @@
+.shirt{
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.shirt-div{
+  position: relative;
+  display: inline-block;
+}
+
+.off{
+  position: absolute;
+  background-color: black;
+  color: whitesmoke;
+  top: 10px;
+  right: 0;
+  font-family: Arial;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
